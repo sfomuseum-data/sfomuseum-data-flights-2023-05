@@ -2,10 +2,12 @@
   "id": 1863485663,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-05-02",
+    "date:cessation_upper": "2023-05-02",
     "date:inception_lower": "2023-05-02",
     "date:inception_upper": "2023-05-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-05-02",
+    "edtf:cessation": "2023-05-02T03:57:45-07:00",
+    "edtf:inception": "2023-05-02T15:50:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2023-05-02",
@@ -21,9 +23,11 @@
     "geom:latitude": 34.726444,
     "geom:longitude": -114.37882099999999,
     "iata:airline": "UA",
+    "icao:aircraft": "B77W",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102527643,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N2846U",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:gufi": "KA41302300"
+    },
     "wof:country": "US",
     "wof:created": 1683130379,
     "wof:geomhash": "3b34defe59c802fafb1391b3a4fe7af8",
@@ -45,12 +58,12 @@
     ],
     "wof:id": 1863485663,
     "wof:involves": [
-      102527513,
       102527643,
       1159285413,
-      -1
+      1159289993,
+      102527513
     ],
-    "wof:lastmodified": 1683130379,
+    "wof:lastmodified": 1683131369,
     "wof:name": "UA2582 (BIF-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
