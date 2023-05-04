@@ -2,10 +2,12 @@
   "id": 1863496909,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-05-03",
+    "date:cessation_upper": "2023-05-03",
     "date:inception_lower": "2023-05-03",
     "date:inception_upper": "2023-05-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-05-03",
+    "edtf:cessation": "2023-05-03T20:22:38Z",
+    "edtf:inception": "2023-05-03T19:07:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -118.7636915,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.617101,
     "lbl:longitude": -122.382233,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527209,
     "sfomuseum:base_flight_id": "20230503-D-AAL-7533",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N283AK",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "34684057"
+    },
     "wof:country": "US",
     "wof:created": 1683217194,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -86,13 +97,14 @@
     ],
     "wof:id": 1863496909,
     "wof:involves": [
+      1763588127,
+      1159283849,
+      1377564285,
       102527209,
       102527513,
-      1159283813,
-      1763588127,
-      1159283849
+      1159283813
     ],
-    "wof:lastmodified": 1683217194,
+    "wof:lastmodified": 1683217770,
     "wof:name": "AS634 (SFO-LAS)",
     "wof:parent_id": 1763588127,
     "wof:placetype": "custom",

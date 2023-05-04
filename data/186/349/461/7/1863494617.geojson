@@ -2,10 +2,12 @@
   "id": 1863494617,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-05-03",
+    "date:cessation_upper": "2023-05-03",
     "date:inception_lower": "2023-05-03",
     "date:inception_upper": "2023-05-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-05-03",
+    "edtf:cessation": "2023-05-03T05:45:15Z",
+    "edtf:inception": "2023-05-03T04:07:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2023-05-03",
@@ -48,6 +50,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "34628584"
+    },
     "wof:country": "US",
     "wof:created": 1683216682,
     "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
@@ -86,7 +91,7 @@
       1159285591,
       1763588193
     ],
-    "wof:lastmodified": 1683216682,
+    "wof:lastmodified": 1683217765,
     "wof:name": "WN814 (PHX-SFO)",
     "wof:parent_id": 1763588193,
     "wof:placetype": "custom",

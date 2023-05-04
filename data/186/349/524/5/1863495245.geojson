@@ -2,10 +2,12 @@
   "id": 1863495245,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-05-03",
+    "date:cessation_upper": "2023-05-03",
     "date:inception_lower": "2023-05-03",
     "date:inception_upper": "2023-05-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-05-03",
+    "edtf:cessation": "2023-05-03T13:13:00Z",
+    "edtf:inception": "2023-05-03T03:03:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": 2.1453445,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "icao:base_airline": "AAR",
     "lbl:latitude": 37.617321,
     "lbl:longitude": -122.389477,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230503-A-AAR-6620",
@@ -53,6 +57,10 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "34625372",
+      "swim:gufi": "KO41800400"
+    },
     "wof:country": "US",
     "wof:created": 1683216824,
     "wof:geomhash": "83e2c60a8819c96e9fa3721059c5eac5",
@@ -90,9 +98,10 @@
       102556451,
       1159285413,
       1763588437,
-      1159283917
+      1159283917,
+      1159289985
     ],
-    "wof:lastmodified": 1683216824,
+    "wof:lastmodified": 1683217767,
     "wof:name": "UA806 (ICN-SFO)",
     "wof:parent_id": 1763588437,
     "wof:placetype": "custom",

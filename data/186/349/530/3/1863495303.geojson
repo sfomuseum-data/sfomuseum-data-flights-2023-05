@@ -2,10 +2,12 @@
   "id": 1863495303,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-05-04",
+    "date:cessation_upper": "2023-05-04",
     "date:inception_lower": "2023-05-03",
     "date:inception_upper": "2023-05-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-05-03",
+    "edtf:cessation": "2023-05-03T22:43:56-07:00",
+    "edtf:inception": "2023-05-03T22:15:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2023-05-03",
@@ -21,9 +23,11 @@
     "geom:latitude": 34.811792499999996,
     "geom:longitude": -43.7468645,
     "iata:airline": "UA",
+    "icao:aircraft": "B773",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617615,
     "lbl:longitude": -122.390247,
+    "sfomuseum:aircraft_id": 1528104579,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102542687,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N2251U",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +56,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "34704238"
+    },
     "wof:country": "US",
     "wof:created": 1683216836,
     "wof:geomhash": "87edecefb4d177e60996116ddda38e44",
@@ -81,12 +92,13 @@
     ],
     "wof:id": 1863495303,
     "wof:involves": [
+      1528104579,
       102527513,
       102542687,
       1159285413,
       1763588441
     ],
-    "wof:lastmodified": 1683216836,
+    "wof:lastmodified": 1683217767,
     "wof:name": "UA955 (TLV-SFO)",
     "wof:parent_id": 1763588441,
     "wof:placetype": "custom",
