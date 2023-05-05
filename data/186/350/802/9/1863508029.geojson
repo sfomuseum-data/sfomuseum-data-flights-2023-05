@@ -2,10 +2,12 @@
   "id": 1863508029,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-05-05",
+    "date:cessation_upper": "2023-05-05",
     "date:inception_lower": "2023-05-04",
     "date:inception_upper": "2023-05-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-05-04",
+    "edtf:cessation": "2023-05-05T05:13:00Z",
+    "edtf:inception": "2023-05-04T10:20:44-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2023-05-04",
@@ -21,9 +23,11 @@
     "geom:latitude": 29.799764500000002,
     "geom:longitude": -140.859366,
     "iata:airline": "UA",
+    "icao:aircraft": "B752",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102528943,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,14 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N12125",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "34908989"
+    },
     "wof:country": "US",
     "wof:created": 1683304044,
     "wof:geomhash": "a2498fe603884edb23014f03e0e3c121",
@@ -45,12 +56,12 @@
     ],
     "wof:id": 1863508029,
     "wof:involves": [
+      1159289939,
       102528943,
       102527513,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1683304044,
+    "wof:lastmodified": 1683304218,
     "wof:name": "UA2307 (SFO-LIH)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
