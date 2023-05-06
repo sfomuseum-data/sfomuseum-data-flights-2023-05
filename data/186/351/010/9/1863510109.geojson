@@ -2,10 +2,12 @@
   "id": 1863510109,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-05-05",
+    "date:cessation_upper": "2023-05-05",
     "date:inception_lower": "2023-05-05",
     "date:inception_upper": "2023-05-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-05-05",
+    "edtf:cessation": "2023-05-05T03:16:30-07:00",
+    "edtf:inception": "2023-05-05T16:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "AAL",
     "icao:base_airline": "JAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230505-A-JAL-7554",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N747UW",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "34884247"
+    },
     "wof:country": "US",
     "wof:created": 1683388856,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -86,13 +97,14 @@
     ],
     "wof:id": 1863510109,
     "wof:involves": [
+      1159289407,
       102527513,
       102533795,
       1159283849,
       1763588213,
       1159284563
     ],
-    "wof:lastmodified": 1683388856,
+    "wof:lastmodified": 1683390649,
     "wof:name": "AA1379 (LAX-SFO)",
     "wof:parent_id": 1763588213,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1863516925,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-05-05",
+    "date:cessation_upper": "2023-05-05",
     "date:inception_lower": "2023-05-05",
     "date:inception_upper": "2023-05-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-05-05",
+    "edtf:cessation": "2023-05-05T01:50:00Z",
+    "edtf:inception": "2023-05-05T00:53:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.619531,
     "lbl:longitude": -122.384262,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533795,
     "sfomuseum:base_flight_id": "20230505-D-ANZ-9252",
@@ -39,6 +43,7 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "swim:tail_number": "N444UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +58,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "34822325",
+      "swim:gufi": "KO73072500"
+    },
     "wof:country": "US",
     "wof:created": 1683390439,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -86,13 +95,14 @@
     ],
     "wof:id": 1863516925,
     "wof:involves": [
+      1763588355,
+      1159283697,
+      1159292085,
       102533795,
       102527513,
-      1159285413,
-      1763588355,
-      1159283697
+      1159285413
     ],
-    "wof:lastmodified": 1683390439,
+    "wof:lastmodified": 1683390659,
     "wof:name": "UA1082 (SFO-LAX)",
     "wof:parent_id": 1763588355,
     "wof:placetype": "custom",
