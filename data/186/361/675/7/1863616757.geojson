@@ -1,0 +1,69 @@
+{
+  "id": 1863616757,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2023-05-16",
+    "date:inception_upper": "2023-05-16",
+    "edtf:cessation": "",
+    "edtf:inception": "2023-05-16",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "EI",
+    "flysfo:date": "2023-05-16",
+    "flysfo:estimated_timestamp": 1684292220,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "EI961",
+    "flysfo:gate": "",
+    "flysfo:journey": "YFB-SFO",
+    "flysfo:scheduled_timestamp": 1684292040,
+    "flysfo:timestamp": 1684292220,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-68.553600,63.748893",
+    "geom:latitude": 50.6834415,
+    "geom:longitude": -95.4622715,
+    "iata:airline": "EI",
+    "icao:airline": "EIN",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283495,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102555329,
+    "sfomuseum:flight_id": "20230516-A-EIN-961",
+    "sfomuseum:flight_number": [
+      "EIN961",
+      "EI961"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1684339779,
+    "wof:geomhash": "cff3291a02b478dfdac0a657407de223",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1863616757
+      }
+    ],
+    "wof:id": 1863616757,
+    "wof:involves": [
+      102527513,
+      102555329,
+      1159283495,
+      -1
+    ],
+    "wof:lastmodified": 1684339779,
+    "wof:name": "EI961 (YFB-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2023-05",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -68.5536,
+    63.748893
+  ],
+  "geometry": {"coordinates":[[-68.5536,63.748893],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
