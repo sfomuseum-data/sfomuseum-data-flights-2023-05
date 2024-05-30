@@ -48,6 +48,7 @@
     "wof:geomhash": "1a30ef2f5f82135186aeb20f0187ac62",
     "wof:hierarchy": [
       {
+        "custom_id": 1863477211,
         "flight_id": 1863477211
       }
     ],
@@ -58,11 +59,13 @@
       102527513,
       1159283597
     ],
-    "wof:lastmodified": 1683045053,
+    "wof:lastmodified": 1717044191,
     "wof:name": "AC7058 (SFO-YYZ)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

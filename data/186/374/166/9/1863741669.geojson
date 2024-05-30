@@ -53,6 +53,7 @@
     "wof:geomhash": "5e0f3a871c366f60ae43a6e5fe25b717",
     "wof:hierarchy": [
       {
+        "custom_id": 1863741669,
         "flight_id": 1863741669
       }
     ],
@@ -64,11 +65,13 @@
       1159289411,
       102528541
     ],
-    "wof:lastmodified": 1685550597,
+    "wof:lastmodified": 1717044202,
     "wof:name": "AA2986 (SFO-DFW)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

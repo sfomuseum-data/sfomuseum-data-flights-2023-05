@@ -48,6 +48,7 @@
     "wof:geomhash": "b157be63e9453882f41d2e530854b6a2",
     "wof:hierarchy": [
       {
+        "custom_id": 1863690769,
         "flight_id": 1863690769
       }
     ],
@@ -58,11 +59,13 @@
       102530717,
       1159285413
     ],
-    "wof:lastmodified": 1685032396,
+    "wof:lastmodified": 1717044201,
     "wof:name": "UA2762 (FAT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

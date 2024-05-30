@@ -40,6 +40,7 @@
     "wof:geomhash": "094b2380067f0814bdd38962ab53e3d3",
     "wof:hierarchy": [
       {
+        "custom_id": 1863747627,
         "flight_id": 1863747627
       }
     ],
@@ -50,11 +51,13 @@
       1159284401,
       -1
     ],
-    "wof:lastmodified": 1685635808,
+    "wof:lastmodified": 1717044206,
     "wof:name": "F9801 (ONT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

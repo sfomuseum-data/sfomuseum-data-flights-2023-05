@@ -53,6 +53,7 @@
     "wof:geomhash": "87faaa2af80cb57714136e3a98b5d686",
     "wof:hierarchy": [
       {
+        "custom_id": 1863598777,
         "flight_id": 1863598777
       }
     ],
@@ -64,11 +65,13 @@
       1159285413,
       1159285485
     ],
-    "wof:lastmodified": 1684168346,
+    "wof:lastmodified": 1717044199,
     "wof:name": "UA61 (MEL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

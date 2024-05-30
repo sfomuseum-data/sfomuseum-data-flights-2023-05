@@ -40,6 +40,7 @@
     "wof:geomhash": "b0708fbc9882ec26729f19c3bf135279",
     "wof:hierarchy": [
       {
+        "custom_id": 1863677959,
         "flight_id": 1863677959
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1684859496,
+    "wof:lastmodified": 1717044204,
     "wof:name": "UA2764 (SFO-NRT)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

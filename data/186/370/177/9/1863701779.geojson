@@ -40,6 +40,7 @@
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
     "wof:hierarchy": [
       {
+        "custom_id": 1863701779,
         "flight_id": 1863701779
       }
     ],
@@ -50,11 +51,13 @@
       1159284401,
       -1
     ],
-    "wof:lastmodified": 1685118364,
+    "wof:lastmodified": 1717044202,
     "wof:name": "F92314 (SFO-ATL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

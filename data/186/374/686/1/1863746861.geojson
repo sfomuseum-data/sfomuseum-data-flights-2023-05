@@ -40,6 +40,7 @@
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
     "wof:hierarchy": [
       {
+        "custom_id": 1863746861,
         "flight_id": 1863746861
       }
     ],
@@ -50,11 +51,13 @@
       1159283813,
       -1
     ],
-    "wof:lastmodified": 1685635629,
+    "wof:lastmodified": 1717044206,
     "wof:name": "AS1284 (SEA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

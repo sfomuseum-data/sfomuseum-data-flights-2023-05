@@ -40,6 +40,7 @@
     "wof:geomhash": "cfb34c2f58cdf1c02ffeb00ec136aa4c",
     "wof:hierarchy": [
       {
+        "custom_id": 1863682345,
         "flight_id": 1863682345
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1684944907,
+    "wof:lastmodified": 1717044202,
     "wof:name": "UA2800 (GUM-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

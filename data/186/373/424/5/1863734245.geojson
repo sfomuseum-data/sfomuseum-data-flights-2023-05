@@ -40,6 +40,7 @@
     "wof:geomhash": "5c4ab4afb4473393075e7e0145a9edb2",
     "wof:hierarchy": [
       {
+        "custom_id": 1863734245,
         "flight_id": 1863734245
       }
     ],
@@ -50,11 +51,13 @@
       1159283849,
       -1
     ],
-    "wof:lastmodified": 1685463503,
+    "wof:lastmodified": 1717044204,
     "wof:name": "AA2916 (SFO-BOI)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

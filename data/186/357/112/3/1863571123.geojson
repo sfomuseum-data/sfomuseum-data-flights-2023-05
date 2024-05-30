@@ -40,6 +40,7 @@
     "wof:geomhash": "1d9a5fa2c9575ebb155d9645f1016c57",
     "wof:hierarchy": [
       {
+        "custom_id": 1863571123,
         "flight_id": 1863571123
       }
     ],
@@ -50,11 +51,13 @@
       1159283849,
       -1
     ],
-    "wof:lastmodified": 1683908240,
+    "wof:lastmodified": 1717044192,
     "wof:name": "AA499 (SFO-SBA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

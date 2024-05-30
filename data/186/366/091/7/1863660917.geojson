@@ -48,6 +48,7 @@
     "wof:geomhash": "d45c6baaf0d56697f52acbb8a9e14867",
     "wof:hierarchy": [
       {
+        "custom_id": 1863660917,
         "flight_id": 1863660917
       }
     ],
@@ -58,11 +59,13 @@
       1377564297,
       102527513
     ],
-    "wof:lastmodified": 1684773236,
+    "wof:lastmodified": 1717044196,
     "wof:name": "AS9533 (SAT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

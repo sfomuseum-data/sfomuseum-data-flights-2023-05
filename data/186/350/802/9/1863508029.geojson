@@ -51,6 +51,7 @@
     "wof:geomhash": "a2498fe603884edb23014f03e0e3c121",
     "wof:hierarchy": [
       {
+        "custom_id": 1863508029,
         "flight_id": 1863508029
       }
     ],
@@ -61,11 +62,13 @@
       102527513,
       1159285413
     ],
-    "wof:lastmodified": 1683304218,
+    "wof:lastmodified": 1717044193,
     "wof:name": "UA2307 (SFO-LIH)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

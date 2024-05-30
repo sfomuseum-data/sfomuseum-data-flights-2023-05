@@ -48,6 +48,7 @@
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
     "wof:hierarchy": [
       {
+        "custom_id": 1863493633,
         "flight_id": 1863493633
       }
     ],
@@ -58,11 +59,13 @@
       102533269,
       1159284261
     ],
-    "wof:lastmodified": 1683217763,
+    "wof:lastmodified": 1717044189,
     "wof:name": "DL9943 (SEA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

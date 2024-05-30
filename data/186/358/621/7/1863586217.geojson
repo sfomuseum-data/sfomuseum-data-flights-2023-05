@@ -40,6 +40,7 @@
     "wof:geomhash": "62f9f5a2734b9c5938b0b415e9e4a515",
     "wof:hierarchy": [
       {
+        "custom_id": 1863586217,
         "flight_id": 1863586217
       }
     ],
@@ -50,11 +51,13 @@
       1159283849,
       -1
     ],
-    "wof:lastmodified": 1684080084,
+    "wof:lastmodified": 1717044197,
     "wof:name": "AA2933 (AUS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -53,6 +53,7 @@
     "wof:geomhash": "3b34defe59c802fafb1391b3a4fe7af8",
     "wof:hierarchy": [
       {
+        "custom_id": 1863485663,
         "flight_id": 1863485663
       }
     ],
@@ -63,11 +64,13 @@
       1159289993,
       102527513
     ],
-    "wof:lastmodified": 1683131369,
+    "wof:lastmodified": 1717044191,
     "wof:name": "UA2582 (BIF-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

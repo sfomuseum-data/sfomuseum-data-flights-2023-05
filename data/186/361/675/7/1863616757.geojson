@@ -48,6 +48,7 @@
     "wof:geomhash": "cff3291a02b478dfdac0a657407de223",
     "wof:hierarchy": [
       {
+        "custom_id": 1863616757,
         "flight_id": 1863616757
       }
     ],
@@ -58,11 +59,13 @@
       102527513,
       102555329
     ],
-    "wof:lastmodified": 1684341146,
+    "wof:lastmodified": 1717044198,
     "wof:name": "EI961 (YFB-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

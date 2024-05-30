@@ -48,6 +48,7 @@
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
     "wof:hierarchy": [
       {
+        "custom_id": 1863684335,
         "flight_id": 1863684335
       }
     ],
@@ -58,11 +59,13 @@
       102533269,
       102527513
     ],
-    "wof:lastmodified": 1684946004,
+    "wof:lastmodified": 1717044204,
     "wof:name": "AS9811 (SFO-SEA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

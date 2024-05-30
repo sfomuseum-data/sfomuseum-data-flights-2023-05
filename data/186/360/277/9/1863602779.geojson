@@ -40,6 +40,7 @@
     "wof:geomhash": "1d9a5fa2c9575ebb155d9645f1016c57",
     "wof:hierarchy": [
       {
+        "custom_id": 1863602779,
         "flight_id": 1863602779
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1684168212,
+    "wof:lastmodified": 1717044196,
     "wof:name": "UA6952 (SFO-SBA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

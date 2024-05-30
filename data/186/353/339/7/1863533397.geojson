@@ -45,6 +45,7 @@
     "wof:geomhash": "3d1812cb234aac8b643ea0201167e576",
     "wof:hierarchy": [
       {
+        "custom_id": 1863533397,
         "flight_id": 1863533397
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283597
     ],
-    "wof:lastmodified": 1683562751,
+    "wof:lastmodified": 1717044191,
     "wof:name": "NZ2373 (SFO-SAT)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

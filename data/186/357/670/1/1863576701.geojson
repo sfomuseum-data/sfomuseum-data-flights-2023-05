@@ -48,6 +48,7 @@
     "wof:geomhash": "865973335526f09b753756c305bf4946",
     "wof:hierarchy": [
       {
+        "custom_id": 1863576701,
         "flight_id": 1863576701
       }
     ],
@@ -58,11 +59,13 @@
       1159283849,
       1159289407
     ],
-    "wof:lastmodified": 1683995521,
+    "wof:lastmodified": 1717044195,
     "wof:name": "AA560 (DFW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

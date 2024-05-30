@@ -40,6 +40,7 @@
     "wof:geomhash": "855a08f9b6f780333367899da8373a5a",
     "wof:hierarchy": [
       {
+        "custom_id": 1863478975,
         "flight_id": 1863478975
       }
     ],
@@ -50,11 +51,13 @@
       1763552131,
       -1
     ],
-    "wof:lastmodified": 1683044699,
+    "wof:lastmodified": 1717044193,
     "wof:name": "MX1005 (SFO-PVU)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

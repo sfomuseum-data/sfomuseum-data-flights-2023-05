@@ -53,6 +53,7 @@
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
     "wof:hierarchy": [
       {
+        "custom_id": 1863513259,
         "flight_id": 1863513259
       }
     ],
@@ -64,11 +65,13 @@
       1159292085,
       102527513
     ],
-    "wof:lastmodified": 1683390654,
+    "wof:lastmodified": 1717044190,
     "wof:name": "UA2483 (PDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

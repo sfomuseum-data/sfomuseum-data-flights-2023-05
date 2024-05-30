@@ -40,6 +40,7 @@
     "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
     "wof:hierarchy": [
       {
+        "custom_id": 1863684295,
         "flight_id": 1863684295
       }
     ],
@@ -50,11 +51,13 @@
       1159283813,
       -1
     ],
-    "wof:lastmodified": 1684945361,
+    "wof:lastmodified": 1717044204,
     "wof:name": "AS456 (SFO-ORD)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

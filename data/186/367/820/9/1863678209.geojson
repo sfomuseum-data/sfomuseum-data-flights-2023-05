@@ -48,6 +48,7 @@
     "wof:geomhash": "f1e29c4a83094711ef061292cfad3358",
     "wof:hierarchy": [
       {
+        "custom_id": 1863678209,
         "flight_id": 1863678209
       }
     ],
@@ -58,11 +59,13 @@
       102527513,
       1159285413
     ],
-    "wof:lastmodified": 1684859721,
+    "wof:lastmodified": 1717044204,
     "wof:name": "UA8107 (SFO-AUS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

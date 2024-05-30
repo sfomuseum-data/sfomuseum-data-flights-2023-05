@@ -40,6 +40,7 @@
     "wof:geomhash": "dda5c67e1aac39b5fe10f27fb362ac64",
     "wof:hierarchy": [
       {
+        "custom_id": 1863554885,
         "flight_id": 1863554885
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1683736151,
+    "wof:lastmodified": 1717044192,
     "wof:name": "UA2827 (SFO-GUM)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

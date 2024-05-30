@@ -48,6 +48,7 @@
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
     "wof:hierarchy": [
       {
+        "custom_id": 1863554883,
         "flight_id": 1863554883
       }
     ],
@@ -58,11 +59,13 @@
       102527513,
       1159285413
     ],
-    "wof:lastmodified": 1683736323,
+    "wof:lastmodified": 1717044192,
     "wof:name": "UA2757 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-05",
     "wof:superseded_by": [],
     "wof:supersedes": []
